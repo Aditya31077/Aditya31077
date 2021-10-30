@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Aditya31077
-- 👀 I’m interested in Blockchain Technology.
-- 🌱 I’m currently learning Python and Web Development
-- 💞️ I’m looking to collaborate on Web Development Projects and Python Projects.
+- 👀 I’m interested in Blockchain.
+- 🌱 I’m currently working with React and Redux and looking to collaborate on projects
 - 📫 How to reach me @adhir_be20@thapar.edu
 
 <!---
